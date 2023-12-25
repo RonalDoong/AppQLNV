@@ -1,0 +1,216 @@
+{
+  "accountAdmin": [
+    {
+      "avatarManager": "",
+      "username": "Dong",
+      "password": "12345",
+      "name": "Phòng nhân sự",
+      "emailManager": "Sygshđh",
+      "phoneManager": "Dbdndbdj",
+      "id": 1
+    },
+    {
+      "password": "",
+      "id": 2
+    },
+    {
+      "password": "erff",
+      "id": 3
+    },
+    {
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "password": "gggg",
+      "id": 5
+    }
+  ],
+  "listBoss": [
+    {
+      "avatarBoss": "",
+      "usernameBoss": "Boss",
+      "passwordBoss": "12345",
+      "emailBoss": "Boss@gmail.com",
+      "phoneBoss": "0382228237",
+      "position": "Boss",
+      "id": 1
+    }
+  ],
+  "listManager": [
+    {
+      "avatarManager": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLNV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/e38949f8-65a4-4771-9b45-e6cfdd14f6d6.jpeg",
+      "username": "Nhái",
+      "password": "12345",
+      "emailManager": "Dongnhat65@gmail.com ",
+      "phoneManager": "0382228237",
+      "position": "Quản lý",
+      "id": 1,
+      "numberBank": "0211200300001"
+    },
+    {
+      "avatarManager": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLNV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/ae0b7763-7117-4dd6-845d-740f3c77511c.jpeg",
+      "username": "Ếchhh",
+      "password": "12345",
+      "emailManager": "Dongnhat65@gmail.com ",
+      "phoneManager": "0382228237",
+      "position": "Quản lý",
+      "id": 2,
+      "numberBank": "0211200300001"
+    }
+  ],
+  "listDepartmen": [
+    {
+      "nameDepartmen": "Phòng ban 2",
+      "worlkingParts": "Bộ phận 2",
+      "staff": [],
+      "nameManager": "Ếch",
+      "manager": [
+        {
+          "avatarManager": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLNV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/e38949f8-65a4-4771-9b45-e6cfdd14f6d6.jpeg",
+          "username": "Nhái",
+          "password": "12345",
+          "emailManager": "Dongnhat65@gmail.com ",
+          "phoneManager": "0382228237",
+          "position": "Quản lý",
+          "id": 1,
+          "numberBank": "0211200300001"
+        }
+      ],
+      "id": 3,
+      "staffs": [
+        {
+          "name": "LaiCaoThanh",
+          "avatarStaff": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLNV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/a81be572-685e-4d4c-908c-73a81bd13543.jpeg",
+          "username": "LaiCaoThanh",
+          "password": "1234567",
+          "birthDay": "19/11/2003",
+          "emailStaff": "Dongnhat65@gmail.com ",
+          "phoneStaff": "0382228237",
+          "position": "Nhân viên",
+          "workingTime": "Ca1(7h15-9h15)",
+          "employeeType": "Part-Time",
+          "id": 10
+        },
+        {
+          "name": "TranNhatDong",
+          "avatarStaff": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLNV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/92aa0772-fb94-4f96-ac14-1492b5b57b94.jpeg",
+          "username": "TranNhatDong",
+          "password": "1234567",
+          "birthDay": "02/11/2003",
+          "emailStaff": "Dongnhat65@gmail.com ",
+          "phoneStaff": "0382228237",
+          "position": "Nhân viên",
+          "workingTime": "Ca1(7h15-9h15)",
+          "employeeType": "Part-Time",
+          "id": 11
+        }
+      ],
+      "listChat": [
+        {
+          "toChat": "Nhái",
+          "contentChat": "Hi",
+          "timeChat": "21:30:37, 25/12/2023"
+        },
+        {
+          "toChat": "LaiCaoThanh",
+          "contentChat": "hello",
+          "timeChat": "12/25/2023, 9:33:59 PM"
+        },
+        {
+          "toChat": "Nhái",
+          "contentChat": "Đây là màn quản lí",
+          "timeChat": "21:34:07, 25/12/2023"
+        },
+        {
+          "toChat": "LaiCaoThanh",
+          "contentChat": "yes",
+          "timeChat": "12/25/2023, 9:34:13 PM"
+        },
+        {
+          "toChat": "TranNhatDong",
+          "contentChat": "Đây là màn nhân viên",
+          "timeChat": "21:36:08, 25/12/2023"
+        },
+        {
+          "toChat": "LaiCaoThanh",
+          "contentChat": "yesss\n",
+          "timeChat": "12/25/2023, 9:36:14 PM"
+        },
+        {
+          "toChat": "LaiCaoThanh",
+          "contentChat": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+          "timeChat": "12/25/2023, 9:36:22 PM"
+        }
+      ]
+    }
+  ],
+  "listStaff": [
+    {
+      "avatarStaff": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLNV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/a81be572-685e-4d4c-908c-73a81bd13543.jpeg",
+      "username": "LaiCaoThanh",
+      "password": "1234567",
+      "birthDay": "19/11/2003",
+      "emailStaff": "Dongnhat65@gmail.com ",
+      "phoneStaff": "0382228237",
+      "position": "Nhân viên",
+      "workingTime": "Ca1(7h15-9h15)",
+      "employeeType": "Part-Time",
+      "id": 10
+    },
+    {
+      "avatarStaff": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252FQLNV-fe41cea2-b7c7-4f2b-9992-ad71df7bf666/ImagePicker/92aa0772-fb94-4f96-ac14-1492b5b57b94.jpeg",
+      "username": "TranNhatDong",
+      "password": "1234567",
+      "birthDay": "02/11/2003",
+      "emailStaff": "Dongnhat65@gmail.com ",
+      "phoneStaff": "0382228237",
+      "position": "Nhân viên",
+      "workingTime": "Ca1(7h15-9h15)",
+      "employeeType": "Part-Time",
+      "id": 11
+    }
+  ],
+  "listNotificationChat": [
+    {
+      "From": "Phòng nhân sự",
+      "To": "Toàn thể công ty",
+      "title": "Thông báo ngày 16/12/2023",
+      "content": "Danh sách các phòng ban đi làm ngày 17/12/2023\nGồm:\nPhòng ban 1\nPhòng ban 2\nPhòng ban 3\nPhòng ban 4\n\nTrên đây là danh sách phòng ban đi làm ngày 17/13/2023.Yêu cầu quản lí và toàn bộ nhân viên phòng ban đi làm đầy đủ.\n\nTrân trọng!",
+      "time": "2023-12-16T06:53:23.324Z",
+      "id": 1
+    },
+    {
+      "From": "Phòng nhân sự",
+      "To": "Toàn thể công ty",
+      "title": "Thông báo lịch nghỉ tết",
+      "content": "Lịch nghỉ tết của công ty bắt đầu từ ngày 01/01/2024 đên ngày 02/02/2024.\n\nĐối tượng áp dụng: Toàn thể công ty\n\nChúc tập thể công ty có 1 kì nghĩ lễ vui vẻ.\n\nTrân trọng!",
+      "time": "2023-12-16T12:41:16.522Z",
+      "id": 2
+    },
+    {
+      "From": "Phòng nhân sự",
+      "To": "All",
+      "title": "Nội dung ngày 21/12/2023",
+      "content": "Không có gì hot đâu:))",
+      "time": "2023-12-20T17:15:40.057Z",
+      "id": 3
+    },
+    {
+      "From": "Phòng nhân sự",
+      "To": "Bdbdbdv",
+      "title": "Hi",
+      "content": "Hiiii",
+      "time": "2023-12-21T13:34:53.621Z",
+      "id": 4
+    },
+    {
+      "From": "Phòng nhân sự",
+      "To": "Hhhhh",
+      "title": "Bdbdbdbbd",
+      "content": "Hdhdhdhdbhdhdhdh",
+      "time": "2023-12-25T14:27:48.119Z",
+      "id": 5
+    }
+  ]
+}
